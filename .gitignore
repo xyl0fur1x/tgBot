@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+
+# Dist 
+dist/
+dist/**
+
+test_dist/
+test_dist/**
+
+**/paths.json
+# Secrets
+.env
+.env.*
+sessions/
+!.env.example
