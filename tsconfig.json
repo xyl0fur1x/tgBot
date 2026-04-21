@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     /* Output */
-    "outDir": "./dist", /* ./dist   ./test_dist   */ 
+    "outDir": "./test_dist", /* ./dist   ./test_dist   */ 
     "rootDir": "./src",
     "removeComments": true,
     "sourceMap": false,
